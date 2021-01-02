@@ -1,0 +1,27 @@
+
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.grid{
+    color: cyan;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.item{
+    justify-content: space-evenly;
+     flex-direction:row ;
+}
+
+body{
+    background-color:rgba(219, 33, 33, 0.534);
+}
